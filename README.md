@@ -120,8 +120,8 @@ ServerlessWebApplication--AWS/
 │   ├── 23-lambda-test-success.png
 │   ├── 24-lambda-url-working.png
 │   └── 25-dynamodb-views-updated.png
-└── docs/
-    └── Serverless_AWS_Project_Shravani.docx
+└── architecture/
+    └── Serverless_AWS_Project_Shravani.architecture-diagram
 ```
 
 ---
@@ -410,5 +410,8 @@ All resources were terminated after project completion. Deletion order to avoid 
 - Debugging real-world AWS issues including region mismatches, DNS errors, and CORS
 
 ---
-
+**Shravani Dhandrut**
+☁️ AWS Cloud Enthusiast
+🔗 [LinkedIn](https://www.linkedin.com/in/shravanidhandrut/)
+```
 > ⭐ If you found this project helpful, please give it a star!
