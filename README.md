@@ -121,7 +121,7 @@ ServerlessWebApplication--AWS/
 │   ├── 24-lambda-url-working.png
 │   └── 25-dynamodb-views-updated.png
 └── architecture/
-    └── Serverless_AWS_Project_Shravani.architecture-diagram
+    └── architecture-diagram.png
 ```
 
 ---
