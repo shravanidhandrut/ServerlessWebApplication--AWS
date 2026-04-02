@@ -83,49 +83,6 @@ Supporting Services:
 
 ---
 
-## 📁 Project Structure
-
-```
-ServerlessWebApplication--AWS/
-│
-├── README.md
-├── src/
-│   ├── index.html              ← Main website
-│   ├── style.css               ← Styling
-│   ├── script.js               ← Visitor counter JS
-│   └── lambda_function.py      ← Lambda backend code
-├── screenshots/
-│   ├── 01-s3-bucket-created.png
-│   ├── 02-cloudfront-distribution.png
-│   ├── 03-cloudfront-origin.png
-│   ├── 04-s3-bucket-policy-1.png
-│   ├── 05-s3-bucket-policy-2.png
-│   ├── 06-s3-bucket-policy-3.png
-│   ├── 07-cloudfront-default-root.png
-│   ├── 08-route53-hosted-zone.png
-│   ├── 09-route53-nameservers.png
-│   ├── 10-cloudfront-alternate-domain.png
-│   ├── 11-acm-certificate.png
-│   ├── 12-route53-ssl-record-1.png
-│   ├── 13-route53-ssl-record-2.png
-│   ├── 14-cloudfront-ssl-attached.png
-│   ├── 15-route53-a-record-1.png
-│   ├── 16-route53-a-record-2.png
-│   ├── 17-domain-working.png
-│   ├── 18-dynamodb-table.png
-│   ├── 19-dynamodb-item.png
-│   ├── 20-iam-role.png
-│   ├── 21-lambda-function.png
-│   ├── 22-lambda-code-deployed.png
-│   ├── 23-lambda-test-success.png
-│   ├── 24-lambda-url-working.png
-│   └── 25-dynamodb-views-updated.png
-└── architecture/
-    └── architecture-diagram.png
-```
-
----
-
 ## 🚀 Step-by-Step Implementation
 
 ### Step 1 — Create S3 Bucket
